@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gopileau/john-doe.git/static/css/main.ce12b0b1.css",
+    "main.js": "/gopileau/john-doe.git/static/js/main.6f16117f.js",
+    "static/js/453.458ff145.chunk.js": "/gopileau/john-doe.git/static/js/453.458ff145.chunk.js",
+    "index.html": "/gopileau/john-doe.git/index.html",
+    "main.ce12b0b1.css.map": "/gopileau/john-doe.git/static/css/main.ce12b0b1.css.map",
+    "main.6f16117f.js.map": "/gopileau/john-doe.git/static/js/main.6f16117f.js.map",
+    "453.458ff145.chunk.js.map": "/gopileau/john-doe.git/static/js/453.458ff145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce12b0b1.css",
+    "static/js/main.6f16117f.js"
+  ]
+}
