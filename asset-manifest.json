@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gopileau/john-doe.git/static/css/main.ce12b0b1.css",
-    "main.js": "/gopileau/john-doe.git/static/js/main.6f16117f.js",
-    "static/js/453.458ff145.chunk.js": "/gopileau/john-doe.git/static/js/453.458ff145.chunk.js",
-    "index.html": "/gopileau/john-doe.git/index.html",
-    "main.ce12b0b1.css.map": "/gopileau/john-doe.git/static/css/main.ce12b0b1.css.map",
-    "main.6f16117f.js.map": "/gopileau/john-doe.git/static/js/main.6f16117f.js.map",
-    "453.458ff145.chunk.js.map": "/gopileau/john-doe.git/static/js/453.458ff145.chunk.js.map"
+    "main.css": "/john-doe/main2.0/static/css/main.ce12b0b1.css",
+    "main.js": "/john-doe/main2.0/static/js/main.8ddacddb.js",
+    "static/js/453.458ff145.chunk.js": "/john-doe/main2.0/static/js/453.458ff145.chunk.js",
+    "index.html": "/john-doe/main2.0/index.html",
+    "main.ce12b0b1.css.map": "/john-doe/main2.0/static/css/main.ce12b0b1.css.map",
+    "main.8ddacddb.js.map": "/john-doe/main2.0/static/js/main.8ddacddb.js.map",
+    "453.458ff145.chunk.js.map": "/john-doe/main2.0/static/js/453.458ff145.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce12b0b1.css",
-    "static/js/main.6f16117f.js"
+    "static/js/main.8ddacddb.js"
   ]
 }
